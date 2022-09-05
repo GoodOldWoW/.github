@@ -1,3 +1,4 @@
+### Here you can take the [first steps](https://github.com/GoodOldWoW/FirstSteps) in writing addons and download actual addons.
 <!--
 ## Hi there 👋
 
@@ -9,7 +10,3 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
-### Here you can:
-- take the [first steps](https://github.com/GoodOldWoW/FirstSteps) in writing addons,
-- download actual addons
